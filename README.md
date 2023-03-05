@@ -2,6 +2,14 @@
 
 > an anime information query utility for fun
 
+## Demonstration
+
+Homepage:
+
+Infpage:
+
+Tracepage:
+
 ## Build Setup
 
 ``` bash
